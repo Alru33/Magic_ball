@@ -1,7 +1,5 @@
 <p align="center">
-  <a>
-    <img src="https://upload.wikimedia.org/wikipedia/commons/e/eb/Magic_eight_ball.png" width="250">
-  </a>
+ 	<img src="https://upload.wikimedia.org/wikipedia/commons/e/eb/Magic_eight_ball.png" width="250">
  </p>
 
 ## Программа Magic ball
